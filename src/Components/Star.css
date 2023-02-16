@@ -1,0 +1,24 @@
+.star-rating {
+  display: flex;
+  margin-top: -20px;
+}
+.star-rating button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 5px;
+  margin-left: -5px;
+}
+
+.star-rating .star {
+  background-color: transparent;
+  font-size: 18px;
+}
+.star-rating .Staron {
+  color: #e90707;
+}
+
+.star-rating .Staroff {
+  color: #ccc;
+}

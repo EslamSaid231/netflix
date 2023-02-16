@@ -1,0 +1,19 @@
+.trending {
+  width: 100%;
+}
+.trending h1 {
+  width: 500px;
+}
+.trending p,
+span,
+label {
+  color: #fff;
+}
+.trending .content {
+  color: #fff;
+  transform: translateY(-16%);
+}
+.trending .heading {
+  padding: 0 94px;
+  font-size: 30px;
+}
